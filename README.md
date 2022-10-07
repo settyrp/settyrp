@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on *OpenSource Projects*
 
-- 👨‍💻 All of my projects are available at [https://github.com/settyrp/settyrp](https://github.com/settyrp/settyrp), https://github.com/settyrp/settyrp
+- 👨‍💻 All of my projects are available at [https://github.com/settyrp/settyrp](https://github.com/settyrp/settyrp)
 
 - 💬 Ask me about *Machine Learning , AI*
 
