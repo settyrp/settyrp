@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋, I am Ratna Priya P</h1>
 <img src="https://swisscognitive.ch/wp-content/uploads/2022/03/Left-Right-Brain-Signals.gif">
-<h3 align="left"><i>I am Data scientist with two years of experience and strong presentation and interpersonal skills.</i></h3>
+<h3 align="left"><i>Have gained good exposure to understand various aspects of Business Analytics through a Post Graduate Program which has developed a great sense of confidence at a very personal level. Hence, I seek a challenging position in the area of Data visualization, Machine Learning, Data Analysis and related fields where I can share my skills and expand my capabilities further in the pursuit of progressive career advancement.</i></h3>
 
-- 🔭 I’m currently working on *Machine Learning Projects*
+- 🔭 I’m currently working on *Machine Leraning and NLP Projects*
 
 - 👯 I’m looking to collaborate on *OpenSource Projects*
 
