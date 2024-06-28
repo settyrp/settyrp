@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I am Ratna Priya P</h1>
-<img src="https://swisscognitive.ch/wp-content/uploads/2022/03/Left-Right-Brain-Signals.gif">
+<img src="https://photos.fife.usercontent.google.com/pw/AP1GczM5Cj6DbJL-y1YEvTHkCn_7zQlTMxpUSV3CC1RtUZ6gfeHJYB7x2Hzogg=w500-h286-s-no-gm?authuser=0">
 <h3 align="left"><i>Have gained good exposure to understand various aspects of Business Analytics through a Post Graduate Program which has developed a great sense of confidence at a very personal level. Hence, I seek a challenging position in the area of Data visualization, Machine Learning, Data Analysis and related fields where I can share my skills and expand my capabilities further in the pursuit of progressive career advancement.</i></h3>
 
 - 🔭 I’m currently working on *Machine Leraning and NLP Projects*
